@@ -361,7 +361,7 @@ Adresa,lat,lon
 "84, 55205 Hořičky",50.4434793,15.9918647
 "Hořičky 6, 55205 Hořičky",50.4429859,15.9939036
 "Pražská 11, 53501 PŘELOUČ",50.0387929,15.5562411
-"Holého 716/38, 905 01 Senica",48.67922,17.36697
+"Holého 716/38, 905 01 Senica",,
 "Podolská 103/126, 14700 Praha",50.0563575,14.420794
 "I. P. Pavlova 2001, 36001 Karlovy Vary",50.2287616,12.8763219
 "Ve Vilkách 147, 54101 Trutnov",50.5588388,15.88601
@@ -518,7 +518,7 @@ Adresa,lat,lon
 "F.V. Veselého, 193 00 Praha 9 - Horní Počernice",50.1179456,14.602846
 "Olomoucká 226, 56943 Jevíčko",49.6317813,16.7172175
 "K Hájům 946, 15000 Praha 5",50.0581852,14.3237567
-"Obrataňská ulice, 146 00 Praha 4 - Libuš",50.00750,14.46333
+"Obrataňská ulice, 146 00 Praha 4 - Libuš",,
 "Teplárenská 608/11, 108 00 Praha 10",50.0835753,14.5331457
 "Černoleská, 256 01 Benešov",49.778042,14.6943711
 "Na Ratince, 266 01 Beroun",49.9556341,14.0771733
@@ -533,23 +533,23 @@ Adresa,lat,lon
 "Svojšovice 27, 251 63 Strančice",49.9543851,14.6627275
 "Průmyslová 1888, 258 01 Vlašim",49.6988201,14.9064325
 "Rudolfovská 170, 370 01 České Budějovice",48.985194,14.5160647
-"Letkov, 315 03 Plzeň - Božkov",49.72972,13.46611
-"Jateční tř., 301 62 Plzeň",49.76764,13.40322
-"Tyršova ulice, 544 01 Dvůr Králové",50.43702,15.81897
-"Pardubická ul., 500 04 Hradec Králové",50.20369,15.79407
+"Letkov, 315 03 Plzeň - Božkov",,
+"Jateční tř., 301 62 Plzeň",,
+"Tyršova ulice, 544 01 Dvůr Králové",,
+"Pardubická ul., 500 04 Hradec Králové",,
 "Bratří Štefanů 986, 500 03 Hradec Králové",50.2207341,15.8763702
-"Správčice u Hradce Králové, 503 02 Předměřice nad Labem",50.2543,15.8500
+"Správčice u Hradce Králové, 503 02 Předměřice nad Labem",,
 "Langiewiczova, 551 02 Jaroměř - Josefov",50.3461413,15.9325426
-"Areál LTM 117, 543 61 Vrchlabí – Kunčice nad Labem",50.5820,15.6194
+"Areál LTM 117, 543 61 Vrchlabí – Kunčice nad Labem",,
 "Londýnská-Růžodol, 460 11 Liberec",50.7804873,15.0298021
-"betonárna Ohrazenice, 511 01 Ohrazenice, okres Semily",50.59828,15.11791
+"betonárna Ohrazenice, 511 01 Ohrazenice, okres Semily",,
 "Benešovská, 405 01 Děčín",50.7779004,14.2215899
-"Areál Válcoven trub, 430 03 Chomutov",50.45914,13.43513
+"Areál Válcoven trub, 430 03 Chomutov",,
 "Prosmycká, 410 02 Lovosice - Prosmyky",50.5167657,14.0935554
 "Lesní Brána, 415 01 Teplice",50.6508931,13.8072637
 "Drážďanská 832/74, 400 07 Ústí nad Labem",50.6644952,14.0717223
 "Jihlavská 1126, 580 01 Havlíčkův Brod",49.5919133,15.5801349
-"Pávov, P.O.Box 42, 586 02 Jihlava",49.44337,15.60405
+"Pávov, P.O.Box 42, 586 02 Jihlava",,
 "Průmyslová 233, 674 01 Třebíč",49.2092298,15.898632
 "Karlov 169, 594 01 Velké Meziříčí",49.3474907,16.031419
 "Jihlavská 1007, 591 01 Ždár nad Sázavou",49.5553341,15.947393
