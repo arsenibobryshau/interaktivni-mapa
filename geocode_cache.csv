@@ -12,7 +12,7 @@ Adresa,lat,lon
 "Kutlíře 20, 28002 KOLÍN II",50.0330708,15.1905655
 "Husova 628, 26101 Příbram VI",49.6879665,13.9938616
 "218, 53941 Kameničky",49.7374245,15.9753826
-"Piešťanská cesta 29, 922 10 Trebatice",,
+"Piešťanská cesta 29, 922 10 Trebatice",48,588408,17,765383
 "Libštát 330, 51206 LIBŠTÁT",50.5588216,15.4238604
 "Dr. Kocourka 456, 35601 Sokolov",50.1856978,12.6393257
 "Školní 279, 28575 Žehušice",49.9736831,15.4019548
@@ -22,7 +22,7 @@ Adresa,lat,lon
 "Odborného 24, 70900 OSTRAVA - HULVÁKY",49.8276657,18.2476767
 "Skladová 7, 971 01 Prievidza",48.7620981,18.6276268
 "Partizánska cesta 97, 974 01 Banská Bystrica",48.7438442,19.1824711
-"Zlatovská cesta 36, 911 05 Trenčín",,
+"Zlatovská cesta 36, 911 05 Trenčín",48,890518,18,010470
 "Pod Nádražím, 28601 ČÁSLAV",49.9143476,15.4016982
 "Pražská 835, 54701 Náchod",50.4111926,16.1625763
 "Zastávecká 1030, 66501 ROSICE U BRNA",49.1843798,16.3709656
@@ -135,7 +135,7 @@ Adresa,lat,lon
 "Štefánikova 2, 3101 Liptovský Mikuláš",49.0919973,19.6050717
 "Nábrežie Oravy 525, 2601 Dolný Kubín",49.2203159,19.2968449
 "Kliňanská cesta 567, 2901 Námestovo",49.4150151,19.4897745
-"Oravnická 601, 2801 Trstená",,
+"Oravnická 601, 02801 Trstená",49,359854,19,610613
 "Nábrežie A. Hlinku 25, 92001 Hlohovec",48.4263375,17.7897997
 "Mlynské Nivy 70, 83104 Bratislava",48.1441776,17.15509
 "Továrenská 6222, 90101 Malacky",48.4307132,17.0270837
@@ -361,7 +361,7 @@ Adresa,lat,lon
 "84, 55205 Hořičky",50.4434793,15.9918647
 "Hořičky 6, 55205 Hořičky",50.4429859,15.9939036
 "Pražská 11, 53501 PŘELOUČ",50.0387929,15.5562411
-"Holého 716/38, 905 01 Senica",,
+"Holého 716/38, 905 01 Senica",48.67922,17.36697
 "Podolská 103/126, 14700 Praha",50.0563575,14.420794
 "I. P. Pavlova 2001, 36001 Karlovy Vary",50.2287616,12.8763219
 "Ve Vilkách 147, 54101 Trutnov",50.5588388,15.88601
@@ -386,7 +386,7 @@ Adresa,lat,lon
 "Jilemnického 4, 8001 Prešov",49.1124308,20.3613953
 "Slovenská 3982, 8501 Bardejov",49.2951925,21.2801257
 "Okružní 103, 54242 Pilnikov",50.5304952,15.8192291
-"Dlouhý 73, 513 01 Záhoří - Dlouhý",,
+"Dlouhý 73, 513 01 Záhoří - Dlouhý",50,624662,15,258078
 "28.října 643, 74283 Klimkovice",49.7843096,18.1396674
 28401 Kutna Hora,49.9486561,15.2681123
 "Emila Škody, 30100 PLZEŇ",49.7394611,13.3590891
@@ -416,7 +416,7 @@ Adresa,lat,lon
 "Za riekou Nitrou 1500, 958 01 Partizánske",48.6218391,18.3814705
 "Tallerova 4, 811 02 Bratislava",48.1417162,17.1139349
 "Míškovice 136, 76852 Míškovice",49.2744682,17.5474605
-"Broumovská 53, Malé Poříčí,, 54701 Velké Poříčí",50.4522923,16.1883271
+"Broumovská 53, Malé Poříčí, 54701 Velké Poříčí",50.4522923,16.1883271
 "Šturova 422/6, 908 01 Kúty",48.6588303,17.0161861
 "Belgická 196, 12000 Praha",50.0739968,14.4358202
 "Vlkovská 334, 59501 VELKÁ BÍTEŠ",49.297225,16.2194238
@@ -424,7 +424,7 @@ Adresa,lat,lon
 "Otakarova 1364/45, 37001 České Budějovice",48.9809259,14.4797729
 "Jeremenkova 1160/90a, 14000 PRAHA 4",50.0432996,14.4301266
 "Chotěšovská 680/1, 19000 PRAHA 9",50.1280481,14.5020202
-"Pribylinská 10, 831 04 Bratislava - mestská časť Rača",,
+"Pribylinská 10, 831 04 Bratislava - mestská časť Rača",48,192402,17,162719
 "MOCOVICE 140, 28601 CASLAV",49.8887541,15.3852095
 "Tiskařská 599/12, 10800 Praha 108",50.0839269,14.5079189
 "Zaječice 2, 53835 ZAJEČICE",49.8985068,15.8894161
@@ -483,7 +483,7 @@ Adresa,lat,lon
 "Libice nad Cidlinou 302, 28907 LIBICE NAD CIDLINOU",50.1220844,15.1718626
 "27, 39143 Mladá Vožice",49.5271764,14.8042957
 "Voráčického Předměstí 757, 39143 Mladá Vožice",49.5352556,14.8070267
-"Na Záhumní 411/11, 971 01 Prievidza 1",,
+"Na Záhumní 411/11, 971 01 Prievidza 1",48,786341,18,636655
 "Vápenická 2, 971 01 Prievidza",48.7659178,18.6296306
 "Na Rovinkách 211, 51301 SEMILY - Podmoklice",50.6069913,15.3215663
 "Na Závisti 1439, 50801 HOŘICE V PODKRKONOŠÍ",50.3607829,15.6270796
@@ -518,7 +518,7 @@ Adresa,lat,lon
 "F.V. Veselého, 193 00 Praha 9 - Horní Počernice",50.1179456,14.602846
 "Olomoucká 226, 56943 Jevíčko",49.6317813,16.7172175
 "K Hájům 946, 15000 Praha 5",50.0581852,14.3237567
-"Obrataňská ulice, 146 00 Praha 4 - Libuš",,
+"Obrataňská ulice, 146 00 Praha 4 - Libuš",50.00750,14.46333
 "Teplárenská 608/11, 108 00 Praha 10",50.0835753,14.5331457
 "Černoleská, 256 01 Benešov",49.778042,14.6943711
 "Na Ratince, 266 01 Beroun",49.9556341,14.0771733
@@ -533,23 +533,23 @@ Adresa,lat,lon
 "Svojšovice 27, 251 63 Strančice",49.9543851,14.6627275
 "Průmyslová 1888, 258 01 Vlašim",49.6988201,14.9064325
 "Rudolfovská 170, 370 01 České Budějovice",48.985194,14.5160647
-"Letkov, 315 03 Plzeň - Božkov",,
-"Jateční tř., 301 62 Plzeň",,
-"Tyršova ulice, 544 01 Dvůr Králové",,
-"Pardubická ul., 500 04 Hradec Králové",,
+"Letkov, 315 03 Plzeň - Božkov",49.72972,13.46611
+"Jateční tř., 301 62 Plzeň",49.76764,13.40322
+"Tyršova ulice, 544 01 Dvůr Králové",50.43702,15.81897
+"Pardubická ul., 500 04 Hradec Králové",50.20369,15.79407
 "Bratří Štefanů 986, 500 03 Hradec Králové",50.2207341,15.8763702
-"Správčice u Hradce Králové, 503 02 Předměřice nad Labem",,
+"Správčice u Hradce Králové, 503 02 Předměřice nad Labem",50.2543,15.8500
 "Langiewiczova, 551 02 Jaroměř - Josefov",50.3461413,15.9325426
-"Areál LTM 117, 543 61 Vrchlabí – Kunčice nad Labem",,
+"Areál LTM 117, 543 61 Vrchlabí – Kunčice nad Labem",50.5820,15.6194
 "Londýnská-Růžodol, 460 11 Liberec",50.7804873,15.0298021
-"betonárna Ohrazenice, 511 01 Ohrazenice, okres Semily",,
+"betonárna Ohrazenice, 511 01 Ohrazenice, okres Semily",50.59828,15.11791
 "Benešovská, 405 01 Děčín",50.7779004,14.2215899
-"Areál Válcoven trub, 430 03 Chomutov",,
+"Areál Válcoven trub, 430 03 Chomutov",50.45914,13.43513
 "Prosmycká, 410 02 Lovosice - Prosmyky",50.5167657,14.0935554
 "Lesní Brána, 415 01 Teplice",50.6508931,13.8072637
 "Drážďanská 832/74, 400 07 Ústí nad Labem",50.6644952,14.0717223
 "Jihlavská 1126, 580 01 Havlíčkův Brod",49.5919133,15.5801349
-"Pávov, P.O.Box 42, 586 02 Jihlava",,
+"Pávov, P.O.Box 42, 586 02 Jihlava",49.44337,15.60405
 "Průmyslová 233, 674 01 Třebíč",49.2092298,15.898632
 "Karlov 169, 594 01 Velké Meziříčí",49.3474907,16.031419
 "Jihlavská 1007, 591 01 Ždár nad Sázavou",49.5553341,15.947393
@@ -951,7 +951,7 @@ Adresa,lat,lon
 "Svatý Mikuláš 113, 28401 Kutná Hora",49.9920563,15.3561275
 "Na Bělišti 72/16, 28601 Čáslav",49.9118119,15.3820898
 "Rooseveltova 261, 50351 Chlumec nad Cidlinou",50.1569951,15.4452775
-"Nová Ves 1,, 28002 KOLÍN",49.9871699,15.0340108
+"Nová Ves 1, 28002 KOLÍN",49.9871699,15.0340108
 "Mírová 144, 35735 KarlovyVary",50.2395961,12.7365143
 "Wilsonova 581, 53901 Hlinsko",49.765625,15.9033213
 "Velkomoravská 791, 69685 Moravský Písek",48.9912187,17.3329471
@@ -1960,7 +1960,6 @@ Adresa,lat,lon
 "Zlatovská cesta 36, 91105 Trenčín",49.5269691,18.8427293
 "Kňažské 767/29, 911 05 Trenčín",48.9015931,17.9999909
 "Malín 42, 28401 Kutná Hora",49.9678241,15.3026151
-"_, _____ _",,
 "Prostřední Lánov 171, 54341 Lánov",50.6196838,15.6582763
 "Dělnická 2824/7, 37006 České Budějovice",48.9712255,14.494565
 28601 BILE PODOLI,49.9564856,15.4910222
@@ -3095,7 +3094,6 @@ Adresa,lat,lon
 28533 JAKUB 107,49.9494301,15.33953
 "Jiraskova 306, 28129 Žižekice",50.1325747,15.3939362
 "Střítežská 584, 57201 Polička",49.7208063,16.254655
-- -,,
 "Obchodní zóna Otvice 251, 43111 JIRKOV",50.4983493,13.4470003
 "tř.Tomáše Bati 283, 76112 ZLÍN",49.2146488,17.6232575
 "V Malé Doubravce 27, 31278 PLZEŇ",49.7507066,13.4129724
@@ -3134,7 +3132,7 @@ Adresa,lat,lon
 "Koutníkova 272, 503 01 HRADEC KRÁLOVÉ",50.2258807,15.7999529
 "Žerotínova 63, 78701 ŠUMPERK",49.9532619,16.9805684
 "Škrobárenská 484/8, 61700 BRNO",49.1843003,16.6244958
-"Pražákova 51 (areál Toboga Bongo),, 619 00 BRNO",,
+"Pražákova 51 (areál Toboga Bongo), 619 00 BRNO",,
 "Novosedlická 394, 41501 Teplice",50.6474938,13.8216407
 "Podlesí 522 ( vjezd do areálu MORAVA OKNO ), 757 01 Valašské Meziřičí",,
 "Březnice 537, 76001 Zlín",49.1868025,17.6618388
