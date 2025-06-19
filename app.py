@@ -8,10 +8,10 @@ st.set_page_config(page_title="Interaktivní mapa adres", layout="wide")
 st.title("Interaktivní mapa adres s filtrem PŘÍZNAK (Datum: 15.06.2025)")
 
 # === 1. Načtení dat ===
-CSV_SOUBOR = "gpt.csv"
+CSV_SOUBOR = "zkouska_csv.csv"
 CACHE_SOUBOR = "geocode_cache.csv"
 ODDELENI = ";"
-KODOVANI = "cp1250"
+KODOVANI = "utf-8"
 
 # Načti data
 if os.path.exists(CACHE_SOUBOR):
